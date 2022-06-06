@@ -1,7 +1,4 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
+          <style>
             #readme > div.Box-body.px-5.pb-5 > article > div:nth-child(2) {
                 background: black;
                 padding: 10px;
@@ -15,6 +12,3 @@
                 color: #00ff43;
             }
             </style>
-        </div>
-    </foreignObject>
-</svg>
