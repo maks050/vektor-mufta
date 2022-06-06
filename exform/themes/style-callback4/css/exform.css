@@ -1,0 +1,116 @@
+@import url("../../../css/mform.css");
+
+.exform_wrapper.style-callback4 {
+	width: 100%;
+    font-size: 20px;
+    color: #000;
+    background: transparent;
+    border: none;
+    padding: 10px;
+    border-radius: 0;
+	box-sizing: border-box;
+}
+
+.exform_wrapper.style-callback4 .exform_header {
+	    text-align: center;
+    padding: 5px 0;
+    margin: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+
+}
+.exform_wrapper.style-callback4 .exform_addmsg a {
+    color: #fff;
+    font-size: 11px;
+}
+
+.exform_wrapper.style-callback4 .exform_addmsg {
+    text-align: center;
+    font-size: 11px;
+    margin: 5px 0;
+    color: #fff;
+}
+.exform_wrapper.style-callback4 .form-body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.exform_wrapper.style-callback4 input[type="text"]:focus, .exform_wrapper.style-callback4 .exform_wrapper textarea:focus {background:#ffd;}
+.exform_wrapper.style-callback4 .inpt_wrpr {
+	flex: 0 66%;
+    display: flex;
+    padding: 0;
+    gap: 0 22px;
+}
+.exform_wrapper.style-callback4 input[type="text"], 
+.exform_wrapper.style-callback4 textarea {
+    font-size: 16px;
+    border: 1px solid #ccc;
+    padding: 0px 17px;
+    margin: 0;
+    border-radius: 0;
+    height: 48px;
+    text-align: left;
+    width: 284px;
+    border-radius: 5px;
+}
+
+.exform_wrapper.style-callback4 textarea{height:50px; resize:none; font-family: 'PT Sans', sans-serif;}
+
+.exform_wrapper.style-callback4 div.err {height:0; float:right; position:relative; left:0; top:11px;}
+
+.exform_wrapper.style-callback4 .mf_submit {
+text-align: center;
+    box-sizing: border-box;
+    flex: 0 33%;
+    padding: 0;
+}
+.exform_wrapper.style-callback4 .mf_submit .send_btn{   
+    background: var(--orange);
+    width: 320px;
+    cursor: pointer;
+    font-weight: normal;
+    color: #fff;
+    padding: 14px 0px;
+    border-radius: 0px;
+    border: 0;
+    margin: 0;
+    font-size: 18px;
+    text-transform: none;
+    /* margin-left: 100px; */
+    border-radius: 5px;
+    height: 50px;
+ }
+
+ .exform_wrapper.style-callback4 .mf_submit .send_btn:active  {zoom: .95;}
+ 
+.exform_wrapper.style-callback4 .exf_captcha input[type="text"], .exform_wrapper.style-callback4 .captcha_img {float:left;}
+.exform_wrapper.style-callback4 .exf_captcha input[type="text"] {width:130px;}
+.exform_wrapper.style-callback4 .captcha_img {width:160px; height:34px; margin:2px 0 0 4px;} 
+#mf_captcha_callback {width:160px; border:solid 1px #ccc;}
+.exform_wrapper.style-callback4 .exf_captcha a {display:block; width:32px; height:32px; float:right; margin:4px -10px 0 0; background:url(refresh.png);}
+
+.exform_wrapper.style-callback4.finmsg {width:400px; min-height:50px; padding:10px; position:absolute; left:50%; top:50%; margin:-60px 0 0 -200px;}
+.exform_wrapper.style-callback4.finmsg p{text-align:center;}
+.exf_captcha {display: none;}
+.close_btn {
+	width: 20px!important;
+	height: 20px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	background: url('/exform/imgs/exit.png') no-repeat;
+	background-size: 100%;
+	border: none;
+	cursor: pointer;
+}
+
+.close_btn:focus { outline: none; }
+
+.lab{
+	font-size:13px;
+}
+ 
+input {font-family: 'PT Sans', sans-serif;}
