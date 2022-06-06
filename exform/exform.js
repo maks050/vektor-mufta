@@ -14,7 +14,7 @@
   var exform_blck = ( options.wrapper == 'body' ) ? options.wrapper : '.' + options.wrapper;
   var exform_wrpr = '.exform_wrapper.'+ options.theme;
   
-  $('head').append('<link rel="stylesheet" type="text/css" href="'+ options.path +'themes/'+ options.theme +'/css/exform.css" />');
+  $('head').append('<link rel="stylesheet" type="text/css" href="'+ '.' + options.path +'themes/'+ options.theme +'/css/exform.css" />');
   
   if(exform_blck == 'body') $(this).click(start_form);
   else start_form();
