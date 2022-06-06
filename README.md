@@ -1,3 +1,3 @@
-+---------------------------------------------------+<br>
-<span>+</span> <a href="https://maks050.github.io/vektor-mufta/" target="_blank">Лендинг</a> для компании призводителя муфт +<br>
-+---------------------------------------------------+<br>
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
