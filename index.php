@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+  <title>Материалы для гидроизоляции</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <link href="favicon.png" rel="shortcut icon" type="image/x-icon" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script type="text/javascript" src="./js/all.js"></script>
+
+  <script type="text/javascript" src="./exform/exform.js"></script>
+  <link rel="stylesheet" type="text/css" href="/exform/themes/style-callback4/css/exform.css">
+  <link rel="stylesheet" type="text/css" href="/exform/themes/callback/css/exform.css">
+  <link rel="stylesheet" type="text/css" href="/exform/themes/request/css/exform.css">
+
+  <!-- slick -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <!-- /slick -->
+
+
+  <link href="./lightbox2/src/css/lightbox.css" rel="stylesheet" />
+  <script src="./lightbox2/src/js/lightbox.js"></script>
+</head>
+<body id="top">
+  <div id="content">
+    <div class="toolbar">
+      <div class="wrapper">
+    <div class="mob-menu"><span></span><span></span><span></span></div>
+        <ul>
+          <li><a class="scroll" href="#ankr1">Главная</a></li>
+          <li><a class="scroll" href="#ankr2">О компании</a></li>
+          <li><a class="scroll" href="#ankr3">Каталог</a></li>
+          <li><a class="scroll" href="#ankr4">Наши преимущества</a></li>
+          <li><a class="scroll" href="#ankr5">Мы в цифрах</a></li>
+          <li><a class="scroll" href="#ankr6">Сертификаты</a></li>
+          <li><a class="scroll" href="#ankr7">Партнеры</a></li>
+          <li><a class="scroll" href="#ankr8">Отзывы клиентов</a></li>
+          <li><a class="scroll" href="#ankr9">Контакты</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="first-screen">
+      <div class="wrapper">
+        <div class="header" id="ankr1">
+          <div><img src="/img/logo.png"></div>
+          <div><p>Качественное решение для гидроизоляции стыков ППУ</p></div>
+          <div>
+            <p><a href="tel:+79253721407">+7(925) 372 14 07</a></p>
+            <p><a href="tel:+79264745450">+7(926) 474 54 50</a></p>
+            <p class="timework">С 9:00 до 18:00 по МСК</p>
+            <a class="callback" href="#">Обратный звонок</a>
+          </div>
+        </div>
+        <div class="body" id="ankr2">
+          <p class="title">«ВЕКТОР»</p>
+          <p class="description">Поставляем полный ассортимент комплектующих для изоляции стыков труб в ППУ изоляции. Только надежный стык может обеспечить расчетный срок эксплуатации трубопровода.<br><br>Продукция сертифицирована. Работаем со всеми Регионами РФ.</p>
+          <div class="buttons">
+            <a class="details" href="http://вектор-трубы.рф/">Подробнее</a>
+            <a class="send" href="#">Отправить заявку</a>
+          </div>
+        </div>
+        <div class="body-bottom" id="ankr5">
+          <div>
+            <p class="title">15</p>
+            <p class="description">лет работаем с материалами ППУ</p>
+          </div>
+          <div>
+            <p class="title">1017</p>
+            <p class="description">реализованных проектов</p>
+          </div>
+          <div>
+            <p class="title">5377</p>
+            <p class="description">единиц продукции в наличии на складе</p>
+          </div>
+          <div>
+            <p class="title">50</p>
+            <p class="description">регионов поставки</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="second-screen">
+      <div class="wrapper">
+        <div class="benefits" id="ankr4">
+          <p class="title">Наши преимущества</p>
+          <div class="box">
+            <div>
+              <img src="/img/benefits/01accept.png">
+              <p class="description">Постоянное наличие на складе</p>
+            </div>
+            <div>
+              <img src="/img/benefits/02keys.png">
+              <p class="description">Расчёт заявки в течение 1 часа</p>
+            </div>
+            <div>
+              <img src="/img/benefits/03target.png">
+              <p class="description">Индивидуальное решение с учетом особенностей вашего объекта</p>
+            </div>
+            <div>
+              <img src="/img/benefits/04certificate.png">
+              <p class="description">Продукция соответствует требованиям ГОСТ 30732</p>
+            </div>
+            <div>
+              <img src="/img/benefits/05package.png">
+              <p class="description">Оперативная доставка по всей России </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="third-screen">
+      <div class="wrapper">
+        <div class="catalog" id="ankr3">
+          <p class="title">Каталог товаров</p>
+        
+          <div class="catalog-box">
+            <div>
+              <img class="img" src="/img/catalog/myfta-termo1.jpg">
+              <p class="title">Муфты термоусаживаемые</p>
+              <p class="description">Термоусаживаемые муфты предназначены для обеспечения защиты ППУ-изоляции от намокания и механических воздействий в местах сварных соединений трубопроводов. Муфты изготовлены из термосветостабилизированного полиэтилена низкого давления ПЭ-100 высокой плотности. Муфты прошли необходимые испытания, сертифицированы.</p>
+              <p style="font-weight:bold;">Цена: от 145руб./шт</p>
+            </div>
+
+            <div>
+              <img class="img" src="/img/catalog/myfta-cink1.jpg">
+              <p class="title">Муфты оцинкованные </p>
+              <p class="description">Оцинкованные муфты (кожухи) используются для защиты изоляционного слоя трубопроводов надземной (наружной) прокладки в пенополиуретановой изоляции. <br>Производятся из тонколистовой оцинкованной стали.</p>
+              <p style="font-weight:bold;">Цена: от 150 руб./шт</p>
+            </div>
+
+            <div>
+              <img style="object-fit: fill;" class="img" src="/img/catalog/izol-stikov1.jpg">
+              <p class="title">Комплекты изоляции стыков</p>
+              <p class="description">Комплекты заделки стыков (КЗС) предназначены для изоляции неизолированных концов трубопровода ППУ после выполнения сварочных работ.  Обеспечивают монолитную систему гидроизоляции. Качество используемых в производстве материалов подтверждается сертификатом и паспортом изготовителя.</p>
+              <p style="font-weight:bold;">Цена: от 245 руб./шт</p>
+            </div>
+
+            <div>
+              <img class="img" src="/img/catalog/lenta-klei1.jpg">
+              <p class="title">Лента клеевая</p>
+              <p class="description">Лента клеевая – полимерный состав для дополнительной адгезии (сцепления) поверхности трубы-оболочки и муфты. Имеет низкую водо- паро- газопроницаемость и высокую химическую стойкость к кислым и щелочным средам.</p>
+              <p style="font-weight:bold;">Цена: от 330 руб./м</p>
+            </div>
+
+            <div>
+              <img class="img" src="/img/catalog/lenta-termousad1.jpg">
+              <p class="title">Лента термоусаживаемая </p>
+              <p class="description">Лента термоусаживаемая предназначена для антикоррозионной защиты наружной поверхности трубопроводов различного назначения, для изоляции сварных стыков труб, для ремонта полиэтиленовых покрытий трубопроводов.</p>
+              <p style="font-weight:bold;">Цена: от 40 руб./м</p>
+            </div>
+
+            <div>
+              <img class="img" src="/img/catalog/nagrev-el1.jpg">
+              <p class="title">Нагревательные элементы </p>
+              <p class="description">Используются для сварки термоусаживаемой муфты с полиэтиленовой оболочкой трубопровода ППУ.  Применяют в качестве проводников электрического тока. ГОСТ 30732 рекомендует использовать Муфты с нагревательными элементами при изоляции труб диаметром ПЭ оболочки 450 и выше.</p>
+              <p style="font-weight:bold;">Цена: от 90 руб./шт</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-screen">
+      <div class="clb-block-10">
+        <div class="wrapper">
+          <div class="clb-title">Оставьте заявку на бесплатную консультацию</div>
+          <div class="clb-title-small">Наш менеджер подробно проконсультирует вас по любому вопросу</div>
+          <div class="style-callback4"> </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="wrapper">
+        <p class="o-nas-title">О нас</p>
+        <div class="o-nas-flex">
+            <div class="o-nas-img">
+              <div class="o-nas">
+                    <div class="prev-o-nas"></div>
+                    <div class="next-o-nas"></div>
+                    <div class="o-nas-box">
+                      <div><img src="/img/o-nas/01.jpg"></div>
+                      <div><img src="/img/o-nas/02.jpg"></div>
+                      <div><img src="/img/o-nas/03.jpg"></div>
+                      <div><img src="/img/o-nas/04.jpg"></div>
+                      <div><img src="/img/o-nas/05.jpg"></div>
+                      <div><img src="/img/o-nas/06.jpg"></div>
+                    </div>
+              </div>
+            </div>
+            <div class="o-nas-info">
+                <p>ООО «ВЕКТОР» - предприятие, имеющее опыт работы в отраслях ЖКХ, промышленного и гражданского строительства. География круга наших Заказчиков весьма обширна: Нижегородская область , Тамбовская область, Брянская область, Смоленская область, Самарская область, Саратовская область и многие другие. Мы специализируемся на поставках современных материалов для инженерных сетей. Основной профиль - это системы теплоснабжения. Нашими партнёрами являются ведущие отечественные производители труб, фасонных частей, а также запорной арматуры.</p>
+                <p>Работая на рынке, мы:</p>
+                <p>-Выполняем все взятые на себя обязательства перед партнерами, с которыми мы сотрудничаем;</p>
+                <p>-В отношениях с конкурентами используем только честные методы, наше правило - конкурировать решительно, энергично, квалифицированно, при возможности переходить на партнерские взаимоотношения;</p>
+                <p>-Стремимся к постоянному развитию и к максимальной устойчивости независимо от наличия благоприятных внешних условий в политике и экономике.</p>
+            </div>
+        </div>
+      </div>
+
+    <div class="seven-screen">
+      <div class="wrapper">
+        <div class="our-partner" id="ankr7">
+          <p class="title" style="color: black;">Наши партнеры</p>
+          <div class="prev-partner"></div>
+          <div class="next-partner"></div>
+          <div class="our-partner-box">
+            <div><img src="/img/partneri/1.jpg"></div>
+            <div><img src="/img/partneri/5.png"></div>
+            <div><img src="/img/partneri/6.jpg"></div>
+            <div><img src="/img/partneri/7.jpg"></div>
+            <div><img src="/img/partneri/8.jpg"></div>
+            <div><img src="/img/partneri/2.png"></div>
+            <div><img src="/img/partneri/3.png"></div>
+            <div><img src="/img/partneri/4.jpg"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="four-screen">
+      <div class="wrapper">
+        <div class="sertificate" id="ankr6">
+          <p class="title">Наши cертификаты</p>
+          <div class="sertificate-box">
+
+            <div><a href="/img/sertificate1-min.jpeg" data-lightbox="image-1" data-title=""><img src="/img/sertificate1-min.jpeg" class="img_gallery" alt=""></a></div>
+            <div> <a href="/img/sertificate2-min.jpeg" data-lightbox="image-1" data-title=""><img src="/img/sertificate2-min.jpeg" class="img_gallery" alt=""></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="five-screen">
+      <div class="wrapper">
+        <div class="how-we-work">
+          <p class="title">Схема работ</p>
+          <div class="box">
+            <div>
+              <p class="title">1</p>
+              <p class="description">Вы оставляете заявку </p>
+            </div>
+            <div>
+              <p class="title">2</p>
+              <p class="description">Мы рассчитываем стоимость </p>
+            </div>
+            <div>
+              <p class="title">3</p>
+              <p class="description">Подписываем договор </p>
+            </div>
+            <div>
+              <p class="title">4</p>
+              <p class="description">Оплачиваете заказ </p>
+            </div>
+            <div>
+              <p class="title">5</p>
+              <p class="description">Получаете продукцию </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="six-screen">
+      <div class="wrapper" id="ankr8">
+        <div class="otziv">
+          <p class="title">Отзывы наших клиентов</p>
+          <div class="prev-otziv"></div>
+          <div class="next-otziv"></div>
+          <div class="otziv-box">
+            <a class="example-image-link" href="/img/otziv/otziv-1-min.jpg" rel="lightbox" data-lightbox="example-set"><img src="/img/otziv/otziv-1-min.jpg" class="img_gallery" alt=""></a>
+            <a class="example-image-link" href="/img/otziv/otziv-2-min.jpg" rel="lightbox" data-lightbox="example-set"><img src="/img/otziv/otziv-2-min.jpg" class="img_gallery" alt=""></a>
+            <a class="example-image-link" href="/img/otziv/otziv-3-min.jpg" rel="lightbox" data-lightbox="example-set"><img src="/img/otziv/otziv-3-min.jpg" class="img_gallery" alt=""></a>
+            <a class="example-image-link" href="/img/otziv/otziv-4-min.jpg" rel="lightbox" data-lightbox="example-set"><img src="/img/otziv/otziv-4-min.jpg" class="img_gallery" alt=""></a>
+            <a class="example-image-link" href="/img/otziv/otziv-5-min.jpg" rel="lightbox" data-lightbox="example-set"><img src="/img/otziv/otziv-5-min.jpg" class="img_gallery" alt=""></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="eight-screen">
+      <div id="ya_map"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uoeR35wgdwGv1tyJzyHgnrRR4yX9OcI&ehbc=2E312F" width="100%" height="470"></iframe></div>
+      <div class="wrapper">
+        <div class="contact" id="ankr9">
+          <p class="title">Контакты</p>
+          <div>
+            <p class="sub-title">Офис: </p>
+            <p>Московская область, г. Домодедово, Каширское шоссе, д. 7 «А», офис 202</p>
+          </div>
+          <div>
+            <p class="sub-title">Производство и склад:</p>
+            <p>Московская область, г. Домодедово, ул. Промышленная, д. 23</p>
+          </div>
+          <div>
+            <p class="sub-title">Телефон: </p>
+            <p><a href="tel:+79253721407">+7 (925) 372 14 07</a><br><a href="tel:+79264745450">+7 (926)474 54 50</a></p>
+          </div>
+          <div>
+            <p class="sub-title">Email: </p>
+            <p><a href="mailto:vektor.pipe@gmail.com ">vektor.pipe@gmail.com</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <footer>
+      <div class="wrapper">
+        <div class="container">
+          <img src="/img/logo.png" style="width: 100px; height: 58px;">
+          <p>Материалы для гидроизоляции стыков труб в ППУ изоляции</p>
+          <a class="callback" href="#">Отправить заявку</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <a class="go_top" id="Go_Top"></a>
+</body>
+</html>
