@@ -102,7 +102,7 @@ $(document).ready(function() {
 function start_form(name) {  
   $(document).ready(function() {
     $('.'+ name).click(function() {
-      $('<div class="form-wrap"></div>').insertAfter('#content').load("../html/" + name +".html");
+      $('<div class="form-wrap"></div>').insertAfter('#content').load("./html/" + name +".html");
       $('<div class="form_bg"></div>').insertAfter('.form-wrap');
       $("head").append("<link href='./html/" + name +".css' rel='stylesheet' type='text/css'>");
     });
