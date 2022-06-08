@@ -87,7 +87,7 @@ a:hover {
 }
 
 .first-screen {
-  background-image: url(/img/bg-first-screen.jpg);
+  background-image: url(./img/bg-first-screen.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgb(0 0 0 / 65%);
@@ -324,7 +324,7 @@ a:hover {
 }
 
 .third-screen .catalog .prev-catalog {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -335,7 +335,7 @@ a:hover {
 }
 
 .third-screen .catalog .next-catalog {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -353,7 +353,7 @@ a:hover {
 
 
 .clb-block-10 {
-  background-image: url(/img/fon-dlya-OC.png);
+  background-image: url(./img/fon-dlya-OC.png);
   background-size: cover;
   box-sizing: border-box;
   padding: 20px 20px 30px 20px;
@@ -444,7 +444,6 @@ a:hover {
     margin: 0;
     font-size: 18px;
     text-transform: none;
-    /* margin-left: 100px; */
     border-radius: 5px;
     height: 50px;
 }
@@ -494,7 +493,7 @@ a:hover {
 }
 
 .o-nas .prev-o-nas {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -505,7 +504,7 @@ a:hover {
 }
 
 .o-nas .next-o-nas {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -606,7 +605,7 @@ a:hover {
 }
 
 .five-screen {
-  background-image: url(/img/fon-sxema.jpeg);
+  background-image: url(./img/fon-sxema.jpeg);
   background-size: cover;
   background-color: rgb(0 0 0 / 40%);
   background-blend-mode: multiply;
@@ -655,7 +654,7 @@ a:hover {
 
 .five-screen .how-we-work .box div:not(:last-child) .title::after {
   content: '';
-  background-image: url(/img/double-arrow.png);
+  background-image: url(./img/double-arrow.png);
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
@@ -684,7 +683,7 @@ a:hover {
 }
 
 .six-screen .otziv .prev-otziv {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -695,7 +694,7 @@ a:hover {
 }
 
 .six-screen .otziv .next-otziv {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -717,10 +716,6 @@ a:hover {
 
 .six-screen .otziv .otziv-box img {width: 100%;}
 
-.seven-screen {
-  /* background-color: #343434; */
-}
-
 .seven-screen .our-partner {
  padding: 60px 0;
 }
@@ -734,7 +729,7 @@ a:hover {
 }
 
 .seven-screen .our-partner .prev-partner {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -745,7 +740,7 @@ a:hover {
 }
 
 .seven-screen .our-partner .next-partner {
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
